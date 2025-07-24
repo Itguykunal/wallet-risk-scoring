@@ -38,7 +38,7 @@ This system analyzes blockchain transaction data to evaluate the risk profile of
 
 1. **Clone or download the project files**
 ```bash
-git clone <repository-url>
+git clone https://github.com/Itguykunal/wallet-risk-scoring
 cd wallet-risk-scoring
 ```
 
