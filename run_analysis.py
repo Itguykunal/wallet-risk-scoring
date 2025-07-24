@@ -6,7 +6,7 @@ from compound_risk_scorer import CompoundWalletRiskScorer
 
 # ===== CONFIGURATION =====
 # Set your Etherscan API key here (get free key from https://etherscan.io/apis)
-ETHERSCAN_API_KEY = "T6VQZ8PP84TNWFB4D1Q4BQEBEXMPZTYNEG"  # Replace with your actual API key
+ETHERSCAN_API_KEY = "YOUR_API_KEY"  # Replace with your actual API key
 
 def main():
     """
