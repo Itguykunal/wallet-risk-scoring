@@ -83,7 +83,7 @@ wallet-risk-scoring/
 ├── requirements.txt                # Python dependencies
 ├── compound_risk_scorer.py         # Main risk scoring engine
 ├── run_analysis.py                 # Execution script
-├── wallets.csv                     # Your input file (100 wallet addresses)
+├── wallets.csv                     # Your input file (wallet addresses)
 ├── wallet_risk_scores.csv          # Output: Main deliverable
 └── detailed_wallet_analysis.csv    # Output: Detailed analysis
 ```
